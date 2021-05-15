@@ -20,6 +20,7 @@ public class Listy {
         System.out.println(lista);
 
         lista.add(1);
+
         for (Integer i : lista) {  //for each
             if (i % 2 == 1) {
                 System.out.println(i);
