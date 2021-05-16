@@ -20,5 +20,8 @@ public class Listy2 {
             lista.add(liczbaUzytkownika);                   //jesli nie istnial to dodajemy
         }
         System.out.println(lista);
+
+        // https://github.com/qpcio/zta052021
+
     }
 }
